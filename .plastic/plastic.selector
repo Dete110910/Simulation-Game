@@ -1,0 +1,4 @@
+repository "Juego Simulación@DanTan110910@cloud"
+  path "/"
+    br "/main"
+    co "/main"

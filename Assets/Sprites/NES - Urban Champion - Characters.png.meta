@@ -1,0 +1,2217 @@
+fileFormatVersion: 2
+guid: 60af5b6f7dda5e2498b0485d20036ff9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 311
+        width: 512
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fbdab4d84de6e46a2dba2e462f105d
+      internalID: -1444955472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 259
+        width: 24
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e9b3ed3af943744a14f2033bbfeabd
+      internalID: -1991414281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 259
+        width: 21
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4aeb8c5c1fe28b46aee8eb052b5d95d
+      internalID: -787283631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 259
+        width: 24
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b898b6ceaa72c7b408d2f4ee6f11d3e6
+      internalID: -1866789861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_4
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 259
+        width: 31
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41640d9ed483a994aac748ebb72eff69
+      internalID: -1751630104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_5
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 259
+        width: 24
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb06125a5c9948146915e5afd24f6221
+      internalID: 1879016165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_6
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 259
+        width: 21
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d225eead0ea5449bd4014eeef213c7
+      internalID: 140809106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_7
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 259
+        width: 24
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1300bf2a2257c0245aad1f6d5d68fa48
+      internalID: -1076227797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_8
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 259
+        width: 31
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b3f42c0031ce34e9b3761d282e73f1
+      internalID: 66818851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_9
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 279
+        width: 160
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a700a151196247643b756b4535749489
+      internalID: -861861705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 262
+        width: 160
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0409e630e4f9f114b8967a7fa4dae059
+      internalID: 1760205779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 214
+        width: 22
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce66af3a50cc78418fdf482fa605660
+      internalID: 793797261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 214
+        width: 21
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65777f3ad1fdb548b0f5dc9112e58bd
+      internalID: -1595110958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 214
+        width: 18
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2054a19a8f88546ab9809944eaf1b9
+      internalID: -155356158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 214
+        width: 14
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda57d4be2640bf4ba3959649d210e4f
+      internalID: 195316644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_15
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 214
+        width: 22
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910544902c855314eb5ff315331f348d
+      internalID: -70542190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_16
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 214
+        width: 21
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff44d6ffaff4d54ea6452e4fea2ce83
+      internalID: -235268225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_17
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 214
+        width: 18
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc24f1b60b4005478c318be107eb94b
+      internalID: -706705000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_18
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 214
+        width: 14
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf77f129dd59e0e43b3b7bd610f6cb42
+      internalID: -137681641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_19
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 251
+        width: 200
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61df5223201b244dba754caa0200c64
+      internalID: 1020605846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 238
+        width: 112
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bf33f875fc7e140920806b9516554c
+      internalID: 2037297269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_21
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 238
+        width: 112
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6e9740c94c8da4b9f600f5e839c234
+      internalID: 1457530053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 225
+        width: 109
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82dad5e3bcb65724ab53dfbf4d90260a
+      internalID: 1871274093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_23
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 225
+        width: 72
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b41d15c99d67c94faf19a109bae94d4
+      internalID: 1183966910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_24
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 220
+        width: 20
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e12116d0947514f8f11c32497cb0ca
+      internalID: 280435127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_25
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 222
+        width: 27
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bdd3ea4bdf58b47baa1fe272e22439
+      internalID: -1191739749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_26
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 172
+        width: 15
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c995b36ced6f6b5408ae6500ee861148
+      internalID: 682975852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_27
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 206
+        width: 25
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29dedf4010646a438730c32ce5f4a4d
+      internalID: -573776871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_28
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 208
+        width: 20
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1743be49ee20242a16cfdb06fe2b28
+      internalID: -591186935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_29
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 167
+        width: 16
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f9331f7b30573408a0374bb63d4dc6
+      internalID: -632968155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_30
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 167
+        width: 16
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a707d7248dcae6428180ac205dca804
+      internalID: 377667982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 167
+        width: 21
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246d0ecc71ac82744979b9e02e4bb245
+      internalID: 1396821691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_32
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 167
+        width: 29
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822a6404455d6944fa78d83d420feeb5
+      internalID: -402070397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_33
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 167
+        width: 16
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39a83bc24092ce40b397417957c2014
+      internalID: -400506000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_34
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 167
+        width: 16
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7684fa1f6ed4d44b7ad26b971eed53
+      internalID: 1201311910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_35
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 167
+        width: 21
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db72ba4d5c5f9d04bb124c076a9e4272
+      internalID: -1502532467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_36
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 167
+        width: 29
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc3556783ae10542bdbb36065d42847
+      internalID: -701216356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_37
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 172
+        width: 38
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0128730e6ca1523428b878a03b585e23
+      internalID: 1189583711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_38
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 185
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f032a7d0ebadab4d82c5d6e7a60b229
+      internalID: -41579133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_39
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 172
+        width: 14
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa2a488762979f46b54525476595272
+      internalID: -667485032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_40
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 195
+        width: 34
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a327655a1eec59a488f5446dbb6b8343
+      internalID: 410781384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_41
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 192
+        width: 42
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e3415e88a14b548b39a2859098d54d
+      internalID: -1736554857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_42
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 195
+        width: 14
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c365015457909d47b7b0d40f6fdb73b
+      internalID: -1693615006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_43
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 194
+        width: 14
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cab4d229bf7194419d47ddade18f831
+      internalID: -782798605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_44
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 192
+        width: 35
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994b77b9ff458e54cad3bb6188d00b74
+      internalID: -1197684274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_45
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 167
+        width: 20
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba69bbdd70a7a848abbb29c244c12a8
+      internalID: 2028580646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_46
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 181
+        width: 16
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31361d3b3cc4c924093d7d69f2fe2f5e
+      internalID: 146693131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_47
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 181
+        width: 8
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8da4d65e627dbf4ea90ad1fa125f585
+      internalID: 1672282638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_48
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 178
+        width: 27
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6461f593c070b694b8a031113cddc957
+      internalID: -1088884834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_49
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 179
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9e2ad256c7e9f429994b3c6032313e
+      internalID: -320329958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_50
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 164
+        width: 42
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746f0ecfbc02a7b4ea9aa9a9d6c1d7b0
+      internalID: 1408415563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_51
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 167
+        width: 29
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c48b16564eae344b4cb54cd3d13659
+      internalID: 3477775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_52
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 167
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0ce23c39ee28a4b802799c98098801
+      internalID: 1572205616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_53
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 124
+        width: 14
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70b736e4f125414f83982a92d98390b
+      internalID: -1749844513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_54
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 124
+        width: 14
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f446d379181dda14386f50bfa5f58c87
+      internalID: 175788575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_55
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 124
+        width: 21
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b4f381ad052c640b1e1f204346efac
+      internalID: -385569631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_56
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 124
+        width: 30
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090d32eda4171384a8f993bfc9ffa061
+      internalID: -1319390108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_57
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 124
+        width: 14
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95c1e6176e8b634f8d282f66c23e1ca
+      internalID: -270727994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_58
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 124
+        width: 14
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a694ea6e7c74cc34ab15ecf0274e9863
+      internalID: -564644499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_59
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 124
+        width: 21
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69ee22315aeca64fb28338d182f070e
+      internalID: 1324195925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_60
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 124
+        width: 30
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ecb511c78cbf74699cd2104ef3e5de
+      internalID: 731310094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_61
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 150
+        width: 8
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55403055a76f6864396ca9f8be53acf2
+      internalID: -1568291225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_62
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 159
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0b44af5cef80d45a163bfb9d3378fe
+      internalID: -696465531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_63
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 147
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b831ed26ff7cae468c61942289450c8
+      internalID: 1373774014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_64
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 153
+        width: 20
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc3b46fbd3e0e44fb128316b0647757
+      internalID: -833146392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_65
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 151
+        width: 41
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ef9d9c4fd0a0f43a0526941908f291
+      internalID: 1416954210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_66
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 153
+        width: 23
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebeb6fa342469b64d8e83aeca785db27
+      internalID: 1774104273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_67
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 153
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30524c53170959f4c91d649bc2e289c1
+      internalID: -755056266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_68
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 150
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7422aac6b325945b61d05f2e278d26
+      internalID: 1786923211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_69
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 139
+        width: 28
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba027fc2e23622d49a6ec8ae43cd1e2e
+      internalID: -920533792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_70
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 83
+        width: 16
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d30e969137f1064cb5f3d9a4b22eb11
+      internalID: 740432664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_71
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 83
+        width: 16
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f330ea460edbf843a042e99abead9f5
+      internalID: 776418070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_72
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 83
+        width: 24
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb236ab0e03e2442ae76de36b235bee
+      internalID: -840549854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_73
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 83
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddd5de921e267047a7f50ecda263675
+      internalID: -31097531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_74
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 83
+        width: 16
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e0f70f38d7728409fc065fe239d38b
+      internalID: -2116280782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_75
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 83
+        width: 16
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d0a3fa66f0ef54c879614cbafb1743
+      internalID: -1697081888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_76
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 83
+        width: 24
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542bcd26a79765a4d9527ce128ca6479
+      internalID: 1996852024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_77
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 83
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd4e67cb8a18784f9dcc34fe7fffb1c
+      internalID: -681726658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_78
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 112
+        width: 64
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0495ce04f743c3048935e3021c46d0ea
+      internalID: -1555534738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_79
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 112
+        width: 64
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5808aacaebec00f4e8c6c1ee71ddbff2
+      internalID: -615145906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_80
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 53
+        width: 30
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dafebeb379e7843b79bfaf2cedb5d5
+      internalID: -332702402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_81
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 49
+        width: 30
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e9bf0860ac26946832e538a4f48579
+      internalID: 445281078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_82
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 49
+        width: 22
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57eb74bdce08c67419434cc3fe3b97b4
+      internalID: 870409767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_83
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 53
+        width: 30
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbbeca360b8f5f47b98ed682d41baa2
+      internalID: 959231925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_84
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 49
+        width: 30
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1f0a22b5908e8469207f3861f0e4f3
+      internalID: 1839504650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_85
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 49
+        width: 22
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6dfc4212056474494ea31464445bec
+      internalID: -1659031655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_86
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 256
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d84b3214b16804d8e30db4bdcdf46c
+      internalID: -650566270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_87
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2
+        width: 23
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d184244e7c76442978043091ba0db7
+      internalID: -512334817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_88
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2
+        width: 21
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d07f3d3fe078ce4aa944c118fbc6593
+      internalID: -1661725486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_89
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2
+        width: 31
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6987d50acbf9a541ba335c69bbf41be
+      internalID: 1303394268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_90
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 2
+        width: 31
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0154e9a5835411c4991de84c9e0fba42
+      internalID: -1883723916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_91
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 2
+        width: 23
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a579f24acb2a64a93da50612349f45
+      internalID: 171313403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_92
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2
+        width: 21
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fce369e37b5bf64086f6c7d756386f1
+      internalID: -51338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_93
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 2
+        width: 31
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a09182c79ab4f94a8c1181cb671dcf1
+      internalID: -1758485105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Urban Champion - Characters_94
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 2
+        width: 31
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc8dd17c4a691249a2df415f7d78f9d
+      internalID: -1665909351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - Urban Champion - Characters_0: -1444955472
+      NES - Urban Champion - Characters_1: -1991414281
+      NES - Urban Champion - Characters_10: 1760205779
+      NES - Urban Champion - Characters_11: 793797261
+      NES - Urban Champion - Characters_12: -1595110958
+      NES - Urban Champion - Characters_13: -155356158
+      NES - Urban Champion - Characters_14: 195316644
+      NES - Urban Champion - Characters_15: -70542190
+      NES - Urban Champion - Characters_16: -235268225
+      NES - Urban Champion - Characters_17: -706705000
+      NES - Urban Champion - Characters_18: -137681641
+      NES - Urban Champion - Characters_19: 1020605846
+      NES - Urban Champion - Characters_2: -787283631
+      NES - Urban Champion - Characters_20: 2037297269
+      NES - Urban Champion - Characters_21: 1457530053
+      NES - Urban Champion - Characters_22: 1871274093
+      NES - Urban Champion - Characters_23: 1183966910
+      NES - Urban Champion - Characters_24: 280435127
+      NES - Urban Champion - Characters_25: -1191739749
+      NES - Urban Champion - Characters_26: 682975852
+      NES - Urban Champion - Characters_27: -573776871
+      NES - Urban Champion - Characters_28: -591186935
+      NES - Urban Champion - Characters_29: -632968155
+      NES - Urban Champion - Characters_3: -1866789861
+      NES - Urban Champion - Characters_30: 377667982
+      NES - Urban Champion - Characters_31: 1396821691
+      NES - Urban Champion - Characters_32: -402070397
+      NES - Urban Champion - Characters_33: -400506000
+      NES - Urban Champion - Characters_34: 1201311910
+      NES - Urban Champion - Characters_35: -1502532467
+      NES - Urban Champion - Characters_36: -701216356
+      NES - Urban Champion - Characters_37: 1189583711
+      NES - Urban Champion - Characters_38: -41579133
+      NES - Urban Champion - Characters_39: -667485032
+      NES - Urban Champion - Characters_4: -1751630104
+      NES - Urban Champion - Characters_40: 410781384
+      NES - Urban Champion - Characters_41: -1736554857
+      NES - Urban Champion - Characters_42: -1693615006
+      NES - Urban Champion - Characters_43: -782798605
+      NES - Urban Champion - Characters_44: -1197684274
+      NES - Urban Champion - Characters_45: 2028580646
+      NES - Urban Champion - Characters_46: 146693131
+      NES - Urban Champion - Characters_47: 1672282638
+      NES - Urban Champion - Characters_48: -1088884834
+      NES - Urban Champion - Characters_49: -320329958
+      NES - Urban Champion - Characters_5: 1879016165
+      NES - Urban Champion - Characters_50: 1408415563
+      NES - Urban Champion - Characters_51: 3477775
+      NES - Urban Champion - Characters_52: 1572205616
+      NES - Urban Champion - Characters_53: -1749844513
+      NES - Urban Champion - Characters_54: 175788575
+      NES - Urban Champion - Characters_55: -385569631
+      NES - Urban Champion - Characters_56: -1319390108
+      NES - Urban Champion - Characters_57: -270727994
+      NES - Urban Champion - Characters_58: -564644499
+      NES - Urban Champion - Characters_59: 1324195925
+      NES - Urban Champion - Characters_6: 140809106
+      NES - Urban Champion - Characters_60: 731310094
+      NES - Urban Champion - Characters_61: -1568291225
+      NES - Urban Champion - Characters_62: -696465531
+      NES - Urban Champion - Characters_63: 1373774014
+      NES - Urban Champion - Characters_64: -833146392
+      NES - Urban Champion - Characters_65: 1416954210
+      NES - Urban Champion - Characters_66: 1774104273
+      NES - Urban Champion - Characters_67: -755056266
+      NES - Urban Champion - Characters_68: 1786923211
+      NES - Urban Champion - Characters_69: -920533792
+      NES - Urban Champion - Characters_7: -1076227797
+      NES - Urban Champion - Characters_70: 740432664
+      NES - Urban Champion - Characters_71: 776418070
+      NES - Urban Champion - Characters_72: -840549854
+      NES - Urban Champion - Characters_73: -31097531
+      NES - Urban Champion - Characters_74: -2116280782
+      NES - Urban Champion - Characters_75: -1697081888
+      NES - Urban Champion - Characters_76: 1996852024
+      NES - Urban Champion - Characters_77: -681726658
+      NES - Urban Champion - Characters_78: -1555534738
+      NES - Urban Champion - Characters_79: -615145906
+      NES - Urban Champion - Characters_8: 66818851
+      NES - Urban Champion - Characters_80: -332702402
+      NES - Urban Champion - Characters_81: 445281078
+      NES - Urban Champion - Characters_82: 870409767
+      NES - Urban Champion - Characters_83: 959231925
+      NES - Urban Champion - Characters_84: 1839504650
+      NES - Urban Champion - Characters_85: -1659031655
+      NES - Urban Champion - Characters_86: -650566270
+      NES - Urban Champion - Characters_87: -512334817
+      NES - Urban Champion - Characters_88: -1661725486
+      NES - Urban Champion - Characters_89: 1303394268
+      NES - Urban Champion - Characters_9: -861861705
+      NES - Urban Champion - Characters_90: -1883723916
+      NES - Urban Champion - Characters_91: 171313403
+      NES - Urban Champion - Characters_92: -51338
+      NES - Urban Champion - Characters_93: -1758485105
+      NES - Urban Champion - Characters_94: -1665909351
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
